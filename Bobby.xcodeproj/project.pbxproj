@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D99AD8752E3DF16F00950216 /* EmojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99AD8742E3DF16F00950216 /* EmojiView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		D99AD8742E3DF16F00950216 /* EmojiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiView.swift; sourceTree = "<group>"; };
 		D9F5F7642E3DE6E9008CB3DB /* Bobby.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bobby.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -34,6 +39,7 @@
 			children = (
 				D9F5F7662E3DE6E9008CB3DB /* Bobby */,
 				D9F5F7652E3DE6E9008CB3DB /* Products */,
+				D99AD8742E3DF16F00950216 /* EmojiView.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D99AD8752E3DF16F00950216 /* EmojiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
